@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_background">#1A1410</color>
+    <color name="brand_surface">#231C16</color>
+    <color name="brand_border">#4A3C2F</color>
+    <color name="brand_orange">#E879F9</color>
+    <color name="brand_green">#38BDF8</color>
+    <color name="brand_text_white">#FAF5F0</color>
+    <color name="brand_text_silver">#B8AEA3</color>
+    <color name="verdict_green">#38BDF8</color>
+    <color name="verdict_orange">#FACC15</color>
+    <color name="verdict_red">#FB7185</color>
+    <color name="verdict_gray">#A8A29E</color>
+</resources>
